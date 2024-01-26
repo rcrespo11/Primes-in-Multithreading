@@ -7,7 +7,7 @@ javac Main.java
 
 To execute the program, no user input is needed. Simply run:
 
-java Main
+java Main.java
 
 Within the program, you can edit the number of required threads and the target number to find prime numbers. 
 The program achieved an average time of 15 seconds to find all prime numbers up to the desired number. 
